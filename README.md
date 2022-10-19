@@ -3,8 +3,10 @@
 - 🌱 I’m currently studying a Master in Artificial Intelligence
 - 🔭 I'm currently working on developing a computer vision application
 - 💞️ I’m looking to collaborate on tech school for (migrant) women as a volunteer
-- 📫 How to reach me: https://www.linkedin.com/in/hannalizarzaburu/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hannalizarzaburu/)
 - 😍 I love movies and books
+
+
 
 
 <!--
