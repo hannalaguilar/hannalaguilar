@@ -4,7 +4,6 @@
 - 🔭 I'm currently working as a Machine Learning Engineer in an IT start up
 - 💞️ I’m looking to collaborate on tech school for (migrant) women as a volunteer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hannalizarzaburu/)
-- 😍 I love movies and books
 
 
 
