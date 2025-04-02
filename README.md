@@ -1,8 +1,7 @@
 ### Hi there 👋 I’m @hannalaguilar
 - 👀 I’m interested in Artificial Intelligence, Computer Vision and LLMs
-- 🌱 I recently completed my Master in Artificial Intelligence 
-- 🔭 I'm currently working as a Researcher at the University of Barcelona
-- 💞️ I’m looking to collaborate on tech school for (migrant) women as a volunteer
+- 🌱 I hold a Master in Artificial Intelligence at [UPC](https://www.upc.edu/en/masters/artificial-intelligence)
+- 🔭 I'm currently working as a AI Engineer at a startup
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hannalizarzaburu/)
 
 
